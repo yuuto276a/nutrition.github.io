@@ -1,0 +1,17 @@
+body {
+  font-family: "Yu Gothic", sans-serif;
+  padding: 2em;
+  background: #fefefe;
+  color: #333;
+}
+input, button {
+  margin: 0.5em;
+  padding: 0.5em;
+  font-size: 1em;
+}
+#result {
+  margin-top: 1em;
+  padding: 1em;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
